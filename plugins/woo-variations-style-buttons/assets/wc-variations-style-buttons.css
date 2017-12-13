@@ -1,0 +1,94 @@
+.ed__variation__button__wrp{
+	display:inline-block;
+	margin:5px;
+	position:relative;
+	overflow:hidden;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.ed__variation__button__wrp input{
+	position:absolute;
+	left:-600px;
+}
+.ed__variation__button__wrp label{
+	border:1px solid #DFDFDF;
+	display:block;
+	padding:5px 10px;
+	min-width:50px;
+	vertical-align:middle;
+	height:40px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	cursor:pointer;
+	text-align:center;
+	
+}
+.ed_round .ed__variation__button__wrp label{
+	-webkit-border-radius:50%;
+	-moz-border-radius:50%;
+	border-radius:50%;
+	width:50px;
+	height:50px;
+}
+.ed__variation__button__wrp label.active{
+	border:1px solid #999;
+}
+.ed__variation__button__wrp label i{
+	font-style:normal;
+	position:absolute;
+	top:50%;
+	left:50%;
+	  transform: translateX(-50%) translateY(-50%);
+	  -webkit-transform: translateX(-50%) translateY(-50%);
+}
+.ed__variation__button__wrp.color_btn label,.ed__variation__button__wrp.color_btn label.active{
+	border:none;
+	text-indent:-1000px;
+	position:relative;
+}
+
+.ed__variation__button__wrp.image_btn{
+	height:auto;
+	width:auto;	
+}
+.ed__variation__button__wrp.image_btn img{
+	max-height:100%;
+	max-width:100%;
+	height:auto;
+	width:auto;
+	opacity:0.8;
+}
+.ed__variation__button__wrp.image_btn label.active img{
+	opacity:1;
+}
+.ed__variation__button__wrp.image_btn label,.ed__variation__button__wrp.image_btn label.active{
+	border:none;
+	position:relative;
+	padding:0px;
+}
+
+.ed__variation__button__wrp.color_btn label.active:after,.ed__variation__button__wrp.image_btn label.active:after{
+	/*Add another block-level blank space*/
+	  content: '';
+	  background:url(checkmark.png) no-repeat center center;
+	  width:20px;
+	  height:20px;
+	  position:absolute;
+	  left:50%;
+	  top:50%;
+	  transform: translateX(-50%) translateY(-50%);
+	  -webkit-transform: translateX(-50%) translateY(-50%);
+}
+.ed__variation__button__wrp.inactive,.ed__variation__button__wrp.inactive:hover,.ed__variation__button__wrp.inactive.active{
+	opacity:0.2!important;
+	background:none!important;
+		
+}
+.ed__variation__radio__wrp input[type="radio"]{
+	width:15px!important;
+}
+.ed__variation__radio__wrp label{
+	display:inline-block;	
+}

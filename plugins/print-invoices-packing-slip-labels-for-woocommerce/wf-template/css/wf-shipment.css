@@ -1,0 +1,123 @@
+body {
+	background: white;
+	margin: 10px 10px;
+	font: normal 10px/100% Verdana, Arial, Helvetica, sans-serif;
+	-webkit-print-color-adjust: exact;
+}
+
+dl.variation {
+	width: 100%;
+	overflow: hidden;
+}
+
+h2.title {
+	font-size: 1.6em;
+}
+
+h2.right {
+	float: right;
+}
+
+h2.footer {
+	border-top: 1px solid #eee;
+	margin-top: 10px;
+	padding-top: 7px;
+	text-align: center;
+	font: normal 13px/150% Verdana, Arial, Helvetica, sans-serif;
+	-webkit-print-color-adjust: exact;
+}
+
+.body-content
+{
+	height:584px;
+	width:364px;
+	border:solid;
+}
+.article {
+	padding: 20px 0;
+	
+}
+
+
+
+.datagrid {
+	font: normal 10px/100% Verdana, Arial, Helvetica, sans-serif;
+	background: #fff;
+	//overflow: hidden;
+	//border: 1px solid #FFFFFF;
+	//margin-top: 15px;
+	-webkit-print-color-adjust: exact;
+}
+
+.datagrid table {
+	border: 1;
+	border-collapse: collapse;
+	text-align: left;
+	width: 100%;
+	border-top-style: solid;
+    border-bottom-style: solid;
+	
+}
+
+.datagrid table td,
+.datagrid table th {
+	padding: 3px 4px;
+	vertical-align: top;
+}
+
+.datagrid table thead th {
+	//background-color: #576099;
+	//color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	border-left: 2px solid #FFFFFF;
+	-webkit-print-color-adjust: exact;
+}
+
+.datagrid table tbody td {
+	color: #000000;
+	border: 2px solid #FFFFFF;
+	font-size: 14px;
+	font-weight: normal;
+	//background-color: #F5F5F5;
+	-webkit-print-color-adjust: exact;
+	vertical-align: top;
+	
+}
+
+.datagrid table tfoot td {
+	color: #000000;
+	border: 2px solid #FFFFFF;
+	font-size: 14px;
+	font-weight: normal;
+	//background-color: #F5F5F5;
+	-webkit-print-color-adjust: exact;
+}
+
+.print {
+	background-color: #f2f2f2;
+	border: 1px solid #bbb;
+	border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-moz-border-radius: 11px;
+	color: #000;
+	display: block;
+	font-size: .90em;
+	height: 22px;
+	width: 30px;
+	line-height: 22px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-decoration: none;
+	margin-top: 7px;
+}
+
+.variation dt {
+	float: left;
+	width: 20%;
+}
+.variation dd {
+	float: left;
+	width: 80%;
+	margin-left: 0;
+}

@@ -1,0 +1,16 @@
+.wac-qty-button {
+    display: inline;
+    border-radius: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 5px;
+    background-color: lightgray;
+}
+
+.wac-qty-button a {
+    border-bottom: none;
+}
+
+.wac-quantity {
+    width: 100%;
+}

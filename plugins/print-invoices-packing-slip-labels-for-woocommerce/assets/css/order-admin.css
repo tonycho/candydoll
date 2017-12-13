@@ -1,0 +1,120 @@
+.widefat .order_actions .wf_pklist_print_document
+{
+	display:block;
+	text-indent:-9999px;
+	position:relative;
+	height:1em;
+	width:1em;
+	padding:0;
+	height:2em !important;
+	width:2em;
+}
+.widefat *{
+	word-wrap: unset !important;
+}
+.wp-list-table {
+	width: auto !important;
+}
+.widefat .order_actions .wf_pklist_print_document:after
+{
+	line-height:2
+}
+.widefat .order_actions .wf_pklist_print_document:after
+{
+	font-family:'dashicons';
+	speak:none;
+	font-weight:normal;
+	font-variant:normal;
+	text-transform:none;
+	-webkit-font-smoothing:antialiased;
+	margin:0;
+	text-indent:0;
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	text-align:center;
+	content:url('../../assets/images/Label-print-icon.png')
+}
+.wf-pklist-print-tooltip-content h3
+{
+	color:#FFF
+}
+.wf-pklist-print-tooltip-content a 
+{
+	color:#DDD;
+	text-decoration:none
+}
+.wf-pklist-print-tooltip-content a:hover
+{
+	color:#FFF;text-decoration:underline
+}
+
+
+/* PDF documents*/
+
+.widefat .order_actions .wf_pklist_download_document:after
+{
+	font-family:'dashicons';
+	speak:none;
+	font-weight:normal;
+	font-variant:normal;
+	text-transform:none;
+	-webkit-font-smoothing:antialiased;
+	margin:0;
+	text-indent:0;
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	text-align:center;
+	content: url('../../assets/images/pdf-icon.png')
+}
+.widefat .order_actions .wf_pklist_download_document
+{
+	display:block;
+	text-indent:-9999px;
+	position:relative;
+	height:1em;
+	width:1em;
+	padding:0;
+	height:2em !important;
+	width:2em
+}
+.widefat .order_actions .wf_pklist_download_document:after
+{
+	line-height:2
+}
+.widefat .order_actions .wf_pklist_print_document:after
+{
+	font-family:'dashicons';
+	speak:none;
+	font-weight:normal;
+	font-variant:normal;
+	text-transform:none;
+	-webkit-font-smoothing:antialiased;
+	margin:0;
+	text-indent:0;
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	text-align:center;
+	content:url('../../assets/images/Label-print-icon.png')
+}
+.wf-pklist-download-tooltip-content h3
+{
+	color:#FFF
+}
+.wf-pklist-download-tooltip-content a
+{
+	color:#DDD;
+	text-decoration:none
+}
+ .wf-pklist-download-tooltip-content a:hover
+{
+	color:#FFF;text-decoration:underline
+}

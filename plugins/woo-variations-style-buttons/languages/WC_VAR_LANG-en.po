@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Variations Style Buttons\n"
+"POT-Creation-Date: 2017-04-30 05:39+0600\n"
+"PO-Revision-Date: 2017-04-30 05:40+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woo-variations-style-buttons.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/function.php:269 inc/function.php:282
+msgid "Clear"
+msgstr ""
+
+#: inc/options.php:59
+msgid "Button Type"
+msgstr ""
+
+#: inc/options.php:79 inc/tabs.php:105
+msgid "Button Style"
+msgstr ""
+
+#: inc/options.php:97
+msgid "Width"
+msgstr ""
+
+#: inc/options.php:109
+msgid "Height"
+msgstr ""
+
+#: inc/options.php:121
+msgid "Text Size"
+msgstr ""
+
+#: inc/options.php:134
+msgid "Text Color"
+msgstr ""
+
+#: inc/options.php:147
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/options.php:160
+msgid "Background Color"
+msgstr ""
+
+#: inc/options.php:173
+msgid "Background Color Hover"
+msgstr ""
+
+#: inc/options.php:186
+msgid "Border Color"
+msgstr ""
+
+#: inc/options.php:200
+msgid "Border Color Hover"
+msgstr ""
+
+#: inc/options.php:214
+msgid "Image Load Form"
+msgstr ""
+
+#: inc/options.php:353 inc/options.php:365 inc/options.php:427 inc/tabs.php:249
+msgid "Attributes"
+msgstr ""
+
+#: inc/options.php:408
+msgid "Woocommerce  Variations Style Buttons Settings"
+msgstr ""
+
+#: inc/options.php:409
+msgid ""
+" Enabling will make your Variations to display as buttons. you can set each "
+"variation(Attibute) to show as a color, text, image button, radio or select "
+"type and button."
+msgstr ""
+
+#: inc/options.php:427
+msgid "Settings"
+msgstr ""
+
+#: inc/options.php:461
+msgid "How To Setting Up Variable Products in WooCommerce,  "
+msgstr ""
+
+#: inc/tabs.php:14
+msgid "Woo Variations Style"
+msgstr ""
+
+#: inc/tabs.php:82
+msgid "Type"
+msgstr ""
+
+#: inc/tabs.php:125 inc/tabs.php:165
+msgid "Attribute Configuration"
+msgstr ""
+
+#: templates/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woo Variations Style Buttons"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://edatastyle.com/product/woo-variations-style-buttons/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Variations Link, Color, Images, Radio, Select Buttons for WooCommerce. "
+"product variations using buttons instead of dropdowns."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "eDataStyle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://edatastyle.com/"
+msgstr ""

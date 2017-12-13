@@ -1,0 +1,11 @@
+.print {
+	display: none !important;
+}
+
+.pagebreak {
+	page-break-after: always;
+}
+
+.no-page-break {
+	page-break-after: avoid;
+}

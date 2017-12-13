@@ -1,0 +1,17 @@
+.woocommerce_eh_packinglist_boxes td
+{
+	vertical-align: middle;
+	padding: 4px 7px;
+}
+.woocommerce_eh_packinglist_boxes th 
+{
+	padding: 9px 7px;
+}
+.woocommerce_eh_packinglist_boxes td input 
+{
+	margin-right: 4px;
+}
+.woocommerce_eh_packinglist_boxes .check-column 
+{
+	width: 1%;
+}

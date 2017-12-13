@@ -1,0 +1,753 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-08-23 20:59+0530\n"
+"PO-Revision-Date: 2016-08-23 21:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: wf-woocommerce-packing-list.php\n"
+"X-Poedit-SearchPath-1: wf-template/wf-4-6-pdf-template.php\n"
+"X-Poedit-SearchPath-2: wf-template/wf-4-6-template-body.php\n"
+"X-Poedit-SearchPath-3: wf-template/wf-4-6-template-body-label.php\n"
+"X-Poedit-SearchPath-4: wf-template/wf-4-6-template-footer.php\n"
+"X-Poedit-SearchPath-5: wf-template/wf-4-6-template-footer-label.php\n"
+"X-Poedit-SearchPath-6: wf-template/wf-4-6-template-header.php\n"
+"X-Poedit-SearchPath-7: wf-template/wf-4-6-template-header-label.php\n"
+"X-Poedit-SearchPath-8: wf-template/wf-pdf-template-invoice-packinglist.php\n"
+
+#: wf-template/wf-4-6-pdf-template.php:50
+msgid "To"
+msgstr "Nach"
+
+#: wf-template/wf-4-6-pdf-template.php:53
+#: wf-template/wf-pdf-template-invoice-packinglist.php:229
+#: wf-template/wf-pdf-template-invoice-packinglist.php:236
+#: wf-template/wf-pdf-template-invoice-packinglist.php:247
+#: wf-template/wf-pdf-template-invoice-packinglist.php:260
+#: wf-template/wf-pdf-template-invoice-packinglist.php:267
+#: wf-template/wf-pdf-template-invoice-packinglist.php:275
+#: wf-template/wf-pdf-template-invoice-packinglist.php:282
+#: wf-template/wf-pdf-template-invoice-packinglist.php:288
+#: wf-template/wf-pdf-template-invoice-packinglist.php:374
+#: wf-template/wf-pdf-template-invoice-packinglist.php:395
+msgid " "
+msgstr ""
+
+#: wf-template/wf-4-6-pdf-template.php:68
+#: wf-template/wf-4-6-pdf-template.php:146
+#: wf-template/wf-4-6-template-body-label.php:63
+#: wf-template/wf-pdf-template-invoice-packinglist.php:223
+msgid " - "
+msgstr ""
+
+#: wf-template/wf-4-6-pdf-template.php:71
+msgid ", "
+msgstr ""
+
+#: wf-template/wf-4-6-pdf-template.php:75
+msgid "Ph no:"
+msgstr "Ph no:"
+
+#: wf-template/wf-4-6-pdf-template.php:88
+msgid "Tracking Number :"
+msgstr "Sendungscode :"
+
+#: wf-template/wf-4-6-pdf-template.php:117
+msgid "FROM"
+msgstr "VON"
+
+#: wf-template/wf-4-6-pdf-template.php:119
+msgid "Order Number "
+msgstr "Bestellnummer"
+
+#: wf-template/wf-4-6-pdf-template.php:120
+#: wf-template/wf-4-6-pdf-template.php:125
+#: wf-template/wf-4-6-pdf-template.php:132
+msgid ": "
+msgstr ""
+
+#: wf-template/wf-4-6-pdf-template.php:124
+msgid "Weight "
+msgstr "Gewicht"
+
+#: wf-template/wf-4-6-pdf-template.php:131
+msgid "Ship Date "
+msgstr "Versanddatum"
+
+#: wf-template/wf-4-6-template-body-label.php:5
+msgid "height:576px;width:384px;"
+msgstr ""
+
+#: wf-template/wf-4-6-template-body-label.php:9
+msgid "height:100%;width:100%;"
+msgstr ""
+
+#: wf-template/wf-4-6-template-body-label.php:15
+#: wf-template/wf-4-6-template-body.php:3
+msgid "Print"
+msgstr "Drucken"
+
+#: wf-template/wf-4-6-template-body-label.php:36
+msgid "Order Number"
+msgstr "Bestellnummer"
+
+#: wf-template/wf-4-6-template-body-label.php:41
+msgid "Weight"
+msgstr "Gewicht"
+
+#: wf-template/wf-4-6-template-body-label.php:47
+msgid "Ship Date"
+msgstr "Versanddatum"
+
+#: wf-template/wf-4-6-template-body-label.php:56
+msgid "FROM:"
+msgstr "VON:"
+
+#: wf-template/wf-4-6-template-body-label.php:69
+msgid "TO:"
+msgstr "NACH:"
+
+#: wf-template/wf-4-6-template-body.php:12
+msgid "Invoice "
+msgstr "Rechnung"
+
+#: wf-template/wf-4-6-template-body.php:16
+msgid "Order "
+msgstr "Auftrag"
+
+#: wf-template/wf-4-6-template-body.php:35
+#: wf-template/wf-4-6-template-body.php:37
+#: wf-template/wf-4-6-template-body.php:38
+#: wf-template/wf-4-6-template-body.php:39
+#: wf-template/wf-4-6-template-body.php:40
+msgid "<br>"
+msgstr ""
+
+#: wf-template/wf-4-6-template-body.php:48
+msgid "Billing address"
+msgstr "Rechnungsadresse"
+
+#: wf-template/wf-4-6-template-body.php:56
+msgid "Email:"
+msgstr "Email:"
+
+#: wf-template/wf-4-6-template-body.php:61
+msgid "Tel:"
+msgstr "Tel:"
+
+#: wf-template/wf-4-6-template-body.php:65
+msgid "VAT:"
+msgstr "Mehrwertsteuer:"
+
+#: wf-template/wf-4-6-template-body.php:68
+msgid "SSN:"
+msgstr "SSN :"
+
+#: wf-template/wf-4-6-template-body.php:72
+msgid "Shipping address"
+msgstr "Lieferanschrift"
+
+#: wf-template/wf-4-6-template-body.php:86
+msgid "Tracking provider:"
+msgstr "Tracking- Anbieter :"
+
+#: wf-template/wf-4-6-template-body.php:92
+msgid "Tracking number:"
+msgstr "Sendungscode :"
+
+#: wf-template/wf-4-6-template-body.php:106
+#: wf-template/wf-4-6-template-body.php:224
+#: wf-template/wf-pdf-template-invoice-packinglist.php:192
+#: wf-template/wf-pdf-template-invoice-packinglist.php:324
+#: wf-template/wf-pdf-template-invoice-packinglist.php:331
+#: wf-template/wf-pdf-template-invoice-packinglist.php:336
+#: wf-template/wf-pdf-template-invoice-packinglist.php:342
+msgid "SKU"
+msgstr "SKU"
+
+#: wf-template/wf-4-6-template-body.php:108
+#: wf-template/wf-4-6-template-body.php:226
+#: wf-template/wf-pdf-template-invoice-packinglist.php:193
+#: wf-template/wf-pdf-template-invoice-packinglist.php:325
+#: wf-template/wf-pdf-template-invoice-packinglist.php:332
+#: wf-template/wf-pdf-template-invoice-packinglist.php:337
+#: wf-template/wf-pdf-template-invoice-packinglist.php:343
+msgid "Product"
+msgstr "Produkt"
+
+#: wf-template/wf-4-6-template-body.php:110
+#: wf-template/wf-4-6-template-body.php:228
+#: wf-template/wf-pdf-template-invoice-packinglist.php:194
+#: wf-template/wf-pdf-template-invoice-packinglist.php:326
+#: wf-template/wf-pdf-template-invoice-packinglist.php:333
+#: wf-template/wf-pdf-template-invoice-packinglist.php:338
+#: wf-template/wf-pdf-template-invoice-packinglist.php:344
+msgid "Quantity"
+msgstr "Menge"
+
+#: wf-template/wf-4-6-template-body.php:112
+#: wf-template/wf-4-6-template-body.php:234
+#: wf-template/wf-pdf-template-invoice-packinglist.php:195
+#: wf-template/wf-pdf-template-invoice-packinglist.php:328
+#: wf-template/wf-pdf-template-invoice-packinglist.php:340
+msgid "Total Price"
+msgstr "Gesamtpreis"
+
+#: wf-template/wf-4-6-template-body.php:119
+msgid "Subtotal:"
+msgstr "Zwischensumme:"
+
+#: wf-template/wf-4-6-template-body.php:127
+msgid "Shipping:"
+msgstr "Versand:"
+
+#: wf-template/wf-4-6-template-body.php:144
+#: wf-template/wf-pdf-template-invoice-packinglist.php:273
+msgid "Cart Discount:"
+msgstr "Warenkorb Rabatt:"
+
+#: wf-template/wf-4-6-template-body.php:151
+#: wf-template/wf-pdf-template-invoice-packinglist.php:280
+msgid "Order Discount:"
+msgstr "Bestellrabat:"
+
+#: wf-template/wf-4-6-template-body.php:170
+#: wf-template/wf-pdf-template-invoice-packinglist.php:265
+msgid "Total Tax:"
+msgstr "Total Tax :"
+
+#: wf-template/wf-4-6-template-body.php:190
+msgid "Total:"
+msgstr "Gesamt:"
+
+#: wf-template/wf-4-6-template-body.php:194
+msgid "- via"
+msgstr "- via"
+
+#: wf-template/wf-4-6-template-body.php:221
+#: wf-template/wf-pdf-template-invoice-packinglist.php:323
+#: wf-template/wf-pdf-template-invoice-packinglist.php:330
+msgid "Image"
+msgstr "Image"
+
+#: wf-template/wf-4-6-template-body.php:230
+#: wf-template/wf-pdf-template-invoice-packinglist.php:327
+#: wf-template/wf-pdf-template-invoice-packinglist.php:334
+#: wf-template/wf-pdf-template-invoice-packinglist.php:339
+#: wf-template/wf-pdf-template-invoice-packinglist.php:345
+msgid "Total Weight"
+msgstr "Gesamtgewicht"
+
+#: wf-template/wf-4-6-template-header-label.php:4
+#: wf-template/wf-4-6-template-header.php:4
+msgid "Print Shipment Label"
+msgstr "Drucken Versand Etikett"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:96
+msgid "Invoice  "
+msgstr "Rechnung"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:103
+msgid "Order  "
+msgstr "Auftrag"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:130
+msgid "Order Date  "
+msgstr "Auftragsdatum"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:150
+msgid "Billing address :"
+msgstr "Rechnungsadresse"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:161
+msgid "SSN : "
+msgstr "SSN :"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:163
+msgid "VAT : "
+msgstr "Mehrwertsteuer:"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:165
+msgid "Email : "
+msgstr "Email : "
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:167
+msgid "Phone : "
+msgstr "Telefon:"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:174
+msgid "Shipping address :"
+msgstr "Lieferanschrift :"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:234
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:240
+msgid "Shipping"
+msgstr "Versand"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:245
+msgid " via "
+msgstr " via "
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:286
+msgid "Total"
+msgstr "Gesamt"
+
+#: wf-template/wf-pdf-template-invoice-packinglist.php:373
+#: wf-template/wf-pdf-template-invoice-packinglist.php:389
+#: wf-template/wf-pdf-template-invoice-packinglist.php:394
+#: wf-template/wf-pdf-template-invoice-packinglist.php:400
+#: wf-woocommerce-packing-list.php:628 wf-woocommerce-packing-list.php:631
+#: wf-woocommerce-packing-list.php:636 wf-woocommerce-packing-list.php:1626
+#: wf-woocommerce-packing-list.php:1670
+msgid "n/a"
+msgstr "n/a"
+
+#: wf-woocommerce-packing-list.php:73
+msgid "Pack Items Individually"
+msgstr "Pack Objekte einzeln"
+
+#: wf-woocommerce-packing-list.php:74
+msgid "Weight Based Packing"
+msgstr "Gewichtsangabe Verpackung"
+
+#: wf-woocommerce-packing-list.php:75
+msgid "Box Packing"
+msgstr "Kasten-Verpackung"
+
+#: wf-woocommerce-packing-list.php:76
+msgid "Single Package Per Order"
+msgstr "Einzel Packung Pro Bestellung"
+
+#: wf-woocommerce-packing-list.php:79
+msgid "Pack Heavier Items First"
+msgstr "Packen Schwerere Gegenstände Erste"
+
+#: wf-woocommerce-packing-list.php:80
+msgid "Pack Lighter Items First"
+msgstr "Packen Erste leichtere Gegenstände"
+
+#: wf-woocommerce-packing-list.php:81
+msgid "Pack Purely Divided By Weight"
+msgstr "Pack rein Gewicht geteilt"
+
+#: wf-woocommerce-packing-list.php:146 wf-woocommerce-packing-list.php:753
+msgid "Invoice"
+msgstr "Rechnung"
+
+#: wf-woocommerce-packing-list.php:211 wf-woocommerce-packing-list.php:222
+msgid "-"
+msgstr ""
+
+#: wf-woocommerce-packing-list.php:279
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: wf-woocommerce-packing-list.php:305
+msgid "You are not allowed to view this page."
+msgstr "Sie sind nicht diese Seite zu sehen erlaubt ."
+
+#: wf-woocommerce-packing-list.php:401 wf-woocommerce-packing-list.php:465
+msgid "You need to Add Shipping from Address to Print shipping labels"
+msgstr "Sie müssen Versand von Adresse hinzufügen Versandetiketten zu drucken"
+
+#: wf-woocommerce-packing-list.php:673
+msgid "Print Options"
+msgstr "Druckoptionen"
+
+#: wf-woocommerce-packing-list.php:691
+msgid "WooCommerce - Print Invoices, Packing List & Labels Settings"
+msgstr ""
+"WooCommerce - Rechnungen drucken , Verpackungs List & Label -Einstellungen"
+
+#: wf-woocommerce-packing-list.php:709
+msgid "Your settings have been saved."
+msgstr "Ihre Einstellungen wurden gespeichert."
+
+#: wf-woocommerce-packing-list.php:752
+msgid "General"
+msgstr "General"
+
+#: wf-woocommerce-packing-list.php:759
+msgid "Generic Settings :"
+msgstr "Generisches Einstellungen:"
+
+#: wf-woocommerce-packing-list.php:763
+msgid "Company Name"
+msgstr "Name der Firma"
+
+#: wf-woocommerce-packing-list.php:766
+msgid ""
+"Your custom company name for the print. Not exceeding 25 characters. Remains "
+"will be discarded."
+msgstr ""
+"Ihre individuelle Firmennamen für den Druck . Nicht mehr als 25 Zeichen . "
+"Reste werden verworfen."
+
+#: wf-woocommerce-packing-list.php:767 wf-woocommerce-packing-list.php:778
+#: wf-woocommerce-packing-list.php:789 wf-woocommerce-packing-list.php:800
+msgid "Note:"
+msgstr "Hinweis:"
+
+#: wf-woocommerce-packing-list.php:768
+msgid "Leave blank to not to print a company name."
+msgstr "Freilassen , um nicht einen Firmennamen zu drucken."
+
+#: wf-woocommerce-packing-list.php:773
+msgid "Custom Logo"
+msgstr "Kundenspezifisches  Logo"
+
+#: wf-woocommerce-packing-list.php:775
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: wf-woocommerce-packing-list.php:777
+msgid ""
+"Your custom logo for the print. Only image of size height 20px to 50px will "
+"be accepted."
+msgstr ""
+"Ihr individuelles Logo für den Druck . Nur Höhe 20px Bild der Größe auf 50px "
+"akzeptiert werden."
+
+#: wf-woocommerce-packing-list.php:779
+msgid "Leave blank to not to use a custom logo."
+msgstr "Freilassen , um nicht ein individuelles Logo zu verwenden."
+
+#: wf-woocommerce-packing-list.php:784
+msgid "Returns Policy, Conditions, etc."
+msgstr "Rückgaberecht , AGB etc."
+
+#: wf-woocommerce-packing-list.php:788
+msgid ""
+"Here you can add some policies, conditions etc. For example returns policy. "
+"Not exceeding 75 characters. Remains will be discarded."
+msgstr ""
+"Hier finden Sie einige Richtlinien , Bedingungen usw. hinzufügen Zum "
+"Beispiel Politik zurück. Nicht mehr als 75 Zeichen . Reste werden verworfen."
+
+#: wf-woocommerce-packing-list.php:790
+msgid "Leave blank to not to print any policy."
+msgstr "Freilassen , um nicht jede Politik zu drucken."
+
+#: wf-woocommerce-packing-list.php:795
+msgid "Custom Footer"
+msgstr "Benutzerdefinierte Fußzeile"
+
+#: wf-woocommerce-packing-list.php:799
+msgid ""
+"Your custom footer for the print. Not exceeding 75 characters. Remains will "
+"be discarded."
+msgstr ""
+"Die benutzerdefinierte Fußzeile für den Druck . Nicht mehr als 75 Zeichen . "
+"Reste werden verworfen."
+
+#: wf-woocommerce-packing-list.php:801
+msgid "Leave blank to not to print a footer."
+msgstr "Freilassen , um nicht eine Fußzeile zu drucken."
+
+#: wf-woocommerce-packing-list.php:806
+msgid "Preview Before Printing"
+msgstr "Vorschau vor dem Drucken"
+
+#: wf-woocommerce-packing-list.php:809 wf-woocommerce-packing-list.php:814
+#: wf-woocommerce-packing-list.php:921
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: wf-woocommerce-packing-list.php:811 wf-woocommerce-packing-list.php:816
+msgid "Disabled"
+msgstr "Deaktivieren"
+
+#: wf-woocommerce-packing-list.php:821
+msgid "Include DataMatrix Information"
+msgstr "Fügen Sie Data-Matrix- Informationen"
+
+#: wf-woocommerce-packing-list.php:825 wf-woocommerce-packing-list.php:837
+#: wf-woocommerce-packing-list.php:849 wf-woocommerce-packing-list.php:1042
+#: wf-woocommerce-packing-list.php:1051 wf-woocommerce-packing-list.php:1067
+msgid "checked"
+msgstr ""
+
+#: wf-woocommerce-packing-list.php:828
+msgid "Check to add datamatrix inforamtion in shipping labels and invoice"
+msgstr ""
+"Überprüfen Sie datamatri inforamtion in Versandetiketten hinzuzufügen und "
+"Rechnung"
+
+#: wf-woocommerce-packing-list.php:833
+msgid "Enable PDF options"
+msgstr "Aktivieren Sie PDF-Optionen"
+
+#: wf-woocommerce-packing-list.php:840
+msgid "Check to enable PDF document download options"
+msgstr "Überprüfen PDF-Dokument Download-Optionen ermöglichen"
+
+#: wf-woocommerce-packing-list.php:845
+msgid "Enable variation data"
+msgstr "Aktivieren Sie Variationsdaten"
+
+#: wf-woocommerce-packing-list.php:852
+msgid "Check to add variation information to invoice"
+msgstr "Überprüfen Variation Informationen hinzufügen zu fakturieren"
+
+#: wf-woocommerce-packing-list.php:859
+msgid "Packaging Type"
+msgstr "Verpackungsart"
+
+#: wf-woocommerce-packing-list.php:880
+msgid "Packaging Process"
+msgstr "Verpackungsprozess"
+
+#: wf-woocommerce-packing-list.php:900
+msgid "Maximum package weight"
+msgstr "Maximale Paketgewicht"
+
+#: wf-woocommerce-packing-list.php:904
+msgid "Set the maximum weight for the package."
+msgstr "Legen Sie die maximale Gewicht für das Paket."
+
+#: wf-woocommerce-packing-list.php:911
+msgid "Box Sizes"
+msgstr "Box Größen"
+
+#: wf-woocommerce-packing-list.php:916
+msgid "Length"
+msgstr "Länge"
+
+#: wf-woocommerce-packing-list.php:917
+msgid "Width"
+msgstr "Breite"
+
+#: wf-woocommerce-packing-list.php:918
+msgid "Height"
+msgstr "Höhe"
+
+#: wf-woocommerce-packing-list.php:919
+msgid "Box Weight"
+msgstr "Box Gewicht"
+
+#: wf-woocommerce-packing-list.php:920
+msgid "Max Weight"
+msgstr "Maximalgewicht"
+
+#: wf-woocommerce-packing-list.php:927
+msgid "Add Box"
+msgstr "Box hinzufügen"
+
+#: wf-woocommerce-packing-list.php:928
+msgid "Remove selected box(es)"
+msgstr "Entfernen Sie ausgewählte (n) Kästchen"
+
+#: wf-woocommerce-packing-list.php:931
+msgid ""
+"Items will be packed into these boxes depending based on item dimensions and "
+"volume. Dimensions will be passed to FedEx and used for packing. Items not "
+"fitting into boxes will be packed individually."
+msgstr ""
+"Einzelteile  werden in diese Kisten verpackt werden, je auf Basis von "
+"Artikeldimensionen und Volumen. Abmessungen werden an FedEx übergeben  "
+"werden und zur Verpackung . Artikel Einbau nicht in Kisten werden einzeln "
+"verpackt werden."
+
+#: wf-woocommerce-packing-list.php:961
+msgid "Shipping From Address : "
+msgstr "Versand von Adresse:"
+
+#: wf-woocommerce-packing-list.php:965
+msgid "Sender Name"
+msgstr "Absender"
+
+#: wf-woocommerce-packing-list.php:969
+msgid ""
+"Sender name (Required for from address). Not exceeding 25 characters. "
+"Remains will be discarded."
+msgstr ""
+"Absendername ( Erforderlich für die von der Adresse ) . Nicht mehr als 25 "
+"Zeichen . Reste werden verworfen."
+
+#: wf-woocommerce-packing-list.php:974
+msgid "Sender Address Line1"
+msgstr "Absenderadresse Line1"
+
+#: wf-woocommerce-packing-list.php:978
+msgid ""
+"Sender Address Line1 (Required for from address). Not exceeding 25 "
+"characters. Remains will be discarded."
+msgstr ""
+"Absenderadresse Line1 ( Erforderlich für die von der Adresse ) . Nicht mehr "
+"als 25 Zeichen . Reste werden verworfen."
+
+#: wf-woocommerce-packing-list.php:983
+msgid "Sender Address Line2"
+msgstr "Absenderadresse Netz2"
+
+#: wf-woocommerce-packing-list.php:986
+msgid ""
+"Sender Address Line2 (Optional). Not exceeding 25 characters. Remains will "
+"be discarded."
+msgstr ""
+"Absenderadresse Netz2 (Optional) . Nicht mehr als 25 Zeichen . Reste werden "
+"verworfen."
+
+#: wf-woocommerce-packing-list.php:990
+msgid "Sender City"
+msgstr "Sender -Stadt"
+
+#: wf-woocommerce-packing-list.php:993
+msgid "Sender City(Required for from address)."
+msgstr "Sender -Stadt ( Erforderlich für die von der Adresse ) ."
+
+#: wf-woocommerce-packing-list.php:997
+msgid "Sender Country"
+msgstr "Sender Land"
+
+#: wf-woocommerce-packing-list.php:1000
+msgid "Sender Country (Required for from address)."
+msgstr "Sender Land ( Erforderlich für die von der Adresse ) ."
+
+#: wf-woocommerce-packing-list.php:1004
+msgid "Sender Postal Code"
+msgstr "Sender Postleitzahl"
+
+#: wf-woocommerce-packing-list.php:1007
+msgid "Sender Postal Code (Required for from address)."
+msgstr "Sender Postleitzahl ( Erforderlich für die von der Adresse ) ."
+
+#: wf-woocommerce-packing-list.php:1012
+msgid "Shipping Label Settings :"
+msgstr "Versandetikett Einstellungen:"
+
+#: wf-woocommerce-packing-list.php:1016
+msgid "Shipping Label Size"
+msgstr "Versandetikett Größe"
+
+#: wf-woocommerce-packing-list.php:1019 wf-woocommerce-packing-list.php:1024
+msgid "Full Page"
+msgstr "Volle Seite"
+
+#: wf-woocommerce-packing-list.php:1020 wf-woocommerce-packing-list.php:1025
+msgid "4x6"
+msgstr ""
+
+#: wf-woocommerce-packing-list.php:1032
+msgid "Packing List Settings :"
+msgstr "Packliste Einstellungen:"
+
+#: wf-woocommerce-packing-list.php:1037
+msgid "Include Item/Product Image"
+msgstr "Fügen Sie Artikel / Artikelbild"
+
+#: wf-woocommerce-packing-list.php:1047
+msgid "Include Price"
+msgstr "Fügen Sie Preis"
+
+#: wf-woocommerce-packing-list.php:1059
+msgid "Invoice Settings : "
+msgstr "Rechnungs Einstellungen:"
+
+#: wf-woocommerce-packing-list.php:1063
+msgid "Use Order Number as Invoice Number"
+msgstr "Verwenden Bestellnummer als Rechnungsnummer"
+
+#: wf-woocommerce-packing-list.php:1072
+msgid "Invoice Start Number"
+msgstr "Rechnung Startnummer"
+
+#: wf-woocommerce-packing-list.php:1079
+msgid "Invoice Padding Number"
+msgstr "Rechnung Padding Anzahl"
+
+#: wf-woocommerce-packing-list.php:1086
+msgid "Reset Invoice Number"
+msgstr "Zurücksetzen Rechnungsnummer"
+
+#: wf-woocommerce-packing-list.php:1090
+msgid "Invoice Number Prefix"
+msgstr "Rechnungsnummer Präfix"
+
+#: wf-woocommerce-packing-list.php:1097
+msgid "Invoice Number Postfix"
+msgstr "Rechnungsnummer Postfix"
+
+#: wf-woocommerce-packing-list.php:1110
+msgid "Generate Invoice For"
+msgstr "Generieren Rechnung für"
+
+#: wf-woocommerce-packing-list.php:1122
+msgid "Attach Invoice with Email"
+msgstr "Bringen Sie Rechnung mit E-Mail"
+
+#: wf-woocommerce-packing-list.php:1137
+msgid "Attach Packing Slip with Email"
+msgstr "Bringen Packzettel mit E-Mail"
+
+#: wf-woocommerce-packing-list.php:1152
+msgid "Additional Fields"
+msgstr "Zusätzliche Felder"
+
+#: wf-woocommerce-packing-list.php:1171
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: wf-woocommerce-packing-list.php:1183
+msgid "Print Actions"
+msgstr "drucken Aktionen"
+
+#: wf-woocommerce-packing-list.php:1203 wf-woocommerce-packing-list.php:1361
+#: wf-woocommerce-packing-list.php:1364
+msgid "Print Invoice"
+msgstr "Rechnung drucken"
+
+#: wf-woocommerce-packing-list.php:1213 wf-woocommerce-packing-list.php:1355
+#: wf-woocommerce-packing-list.php:1358
+msgid "Print Packing List"
+msgstr "Packliste  drucken"
+
+#: wf-woocommerce-packing-list.php:1223
+msgid "Print Shipping Label"
+msgstr "Drucken Versandetiketten"
+
+#: wf-woocommerce-packing-list.php:1234 wf-woocommerce-packing-list.php:1380
+#: wf-woocommerce-packing-list.php:1383
+msgid "Download Invoice"
+msgstr "Download Rechnung"
+
+#: wf-woocommerce-packing-list.php:1244
+msgid "Download PackingList"
+msgstr "Herunterladen Packliste"
+
+#: wf-woocommerce-packing-list.php:1254
+msgid "Download Shipping Label"
+msgstr "Herunterladen Versandetikett"
+
+#: wf-woocommerce-packing-list.php:1367 wf-woocommerce-packing-list.php:1370
+msgid "Print Shipping Labels"
+msgstr "Drucken Versandetiketten"
+
+#: wf-woocommerce-packing-list.php:1374 wf-woocommerce-packing-list.php:1377
+msgid "Download Shipping Labels"
+msgstr "Download von Versandetiketten"
+
+#: wf-woocommerce-packing-list.php:1386 wf-woocommerce-packing-list.php:1389
+msgid "Download Packing List"
+msgstr "Herunterladen Packliste"
+
+#: wf-woocommerce-packing-list.php:1719
+msgid "Ph No : "
+msgstr "Ph no:"
+
+#~ msgid "Packing List Settings"
+#~ msgstr "Packliste Einstellungen"
+
+#~ msgid "Packing List"
+#~ msgstr "Packliste"

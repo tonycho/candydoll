@@ -1,0 +1,1066 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GoodStore\n"
+"POT-Creation-Date: 2016-12-06 10:44+0100\n"
+"PO-Revision-Date: 2016-12-06 10:44+0100\n"
+"Last-Translator: JaW Templates <jaw@jawtemplates.com>\n"
+"Language-Team: JaW Templates <jaw@jawtemplates.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28 templates/simple-shortcodes/breadcrumbs.php:157
+msgid "Search:"
+msgstr "Recherche :"
+
+#: archive.php:95
+msgid "Tag"
+msgstr "Étiquette"
+
+#: attachment.php:30
+msgid "Published"
+msgstr "Publié"
+
+#: attachment.php:30
+msgid " at "
+msgstr "à"
+
+#: attachment.php:30
+msgid " in "
+msgstr "dans"
+
+#: attachment.php:33 comments.php:11 comments.php:42
+#: templates/blog/single-post.php:128
+msgid "Edit"
+msgstr "Modifier"
+
+#: attachment.php:77
+msgid "Pages"
+msgstr "Pages"
+
+#: author.php:15 templates/blog/single-post.php:236
+#: templates/simple-shortcodes/author.php:9
+msgid "About the author"
+msgstr "À propos de l'auteur"
+
+#: comments.php:11
+msgid "Pingback:"
+msgstr "Pingback :"
+
+#: comments.php:28
+msgid "Reply"
+msgstr "Répondre"
+
+#: comments.php:36
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire doit être validé"
+
+#: comments.php:64
+msgid "Please do not load this page directly. Thanks!"
+msgstr "SVP, ne pas rafraîchir la page. Merci!"
+
+#: comments.php:70
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Ce post est protégé par un mot de passe. Entrez le mot de passe pour voir "
+"les commentaires."
+
+#: comments.php:80
+msgid "No Responses to"
+msgstr "Aucune réponse à"
+
+#: comments.php:80
+msgid "One Response to"
+msgstr "Une réponse"
+
+#: comments.php:80
+msgid "Responses to"
+msgstr "Réponses à"
+
+#: comments.php:86
+msgid "<i class=\"icon-arrow-slide-left\"></i> Older comments"
+msgstr "<i class=\"icon-arrow-slide-left\"></i> Anciens commentaires"
+
+#: comments.php:87
+msgid "Newer comments <i class=\"icon-arrow-slide-right\"></i>"
+msgstr "Nouveaux commentaires <i class=\"icon-arrow-slide-right\"></i>"
+
+#: comments.php:97
+msgid "Comments are closed."
+msgstr "Les commentaires sont clos."
+
+#: comments.php:118
+msgid "Leave a Reply"
+msgstr "Répondre"
+
+#: comments.php:119
+msgid "Leave a Reply to"
+msgstr "Répondre à"
+
+#: comments.php:120
+msgid "Submit Comment"
+msgstr "Soumettre un commentaire"
+
+#: comments.php:123
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:126
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Vous devez être <a href=\"%s\">connecté</a> pour afficher un commentaire"
+
+#: comments.php:127
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+#: comments.php:127
+msgid "Log out of this account"
+msgstr "Déconnexion du compte"
+
+#: comments.php:127
+msgid "Log out &raquo;"
+msgstr "Déconnexion &raquo;"
+
+#: comments.php:134 templates/simple-shortcodes/section_bar.php:58
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:135 comments.php:141 comments.php:149
+msgid " (required)"
+msgstr "(requis)"
+
+#: comments.php:140
+msgid "E-mail"
+msgstr "Courriel"
+
+#: comments.php:145
+msgid "Website"
+msgstr "Site web"
+
+#: content-product_cat.php:51 loop-search.php:185
+msgid "Items"
+msgstr "Articles"
+
+#: content-product_cat.php:53
+msgid "Item"
+msgstr ""
+
+#: framework/lib/class_demoimport.php:1063
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: framework/lib/class_demoimport.php:1076
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/lib/class_demoimport.php:1081
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/lib/class_demoimport.php:1087
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/lib/class_elements.php:2025
+msgid "Upload"
+msgstr "Téléverser"
+
+#: framework/lib/class_facebook.php:21
+msgid "comments"
+msgstr "commentaires"
+
+#: framework/lib/class_facebook.php:22
+msgid "Comments"
+msgstr "Commentaires"
+
+#: framework/lib/class_render.php:262 framework/lib/class_render.php:279
+msgid "No additional posts."
+msgstr "Aucun post additionnel"
+
+#: framework/lib/class_render.php:318 framework/lib/class_render.php:327
+msgid "PREVIOUS"
+msgstr "PRÉCÉDENT"
+
+#: framework/lib/class_render.php:319 framework/lib/class_render.php:330
+msgid "NEXT"
+msgstr "SUIVANT"
+
+#: framework/lib/class_render.php:343
+msgid " Older posts"
+msgstr " Ancient posts"
+
+#: framework/lib/class_render.php:347 framework/lib/class_render.php:362
+msgid "Newer posts"
+msgstr "Nouveaux posts"
+
+#: framework/lib/class_render.php:359
+msgid "Older posts"
+msgstr "Anciens posts"
+
+#: framework/lib/class_render.php:369
+msgid "More"
+msgstr "Plus"
+
+#: framework/lib/class_render.php:503 templates/blog/single-post.php:260
+#: templates/simple-shortcodes/author.php:31
+msgid "Follow me on:"
+msgstr "Suivez moi sur :"
+
+#: framework/lib/class_tgm.php:174 framework/lib/class_tgm.php:360
+msgid "Install Required Plugins"
+msgstr "Installez les extensions requises"
+
+#: framework/lib/class_tgm.php:175 framework/lib/class_tgm.php:361
+msgid "Install Plugins"
+msgstr "Installez les extensions"
+
+#: framework/lib/class_tgm.php:176 framework/lib/class_tgm.php:362
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installez l'extension : %s"
+
+#: framework/lib/class_tgm.php:177
+msgid "Something went wrong with the plugin API."
+msgstr "Quelque chose s'est mal passé avec l'API de l'extension."
+
+#: framework/lib/class_tgm.php:188 framework/lib/class_tgm.php:376
+#: framework/lib/class_tgm.php:705
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l'installateur de l'extension requise"
+
+#: framework/lib/class_tgm.php:189 framework/lib/class_tgm.php:377
+#: framework/lib/class_tgm.php:2102
+msgid "Plugin activated successfully."
+msgstr "L'extension a été installée avec succès"
+
+#: framework/lib/class_tgm.php:190
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Toutes les extensions sont installées et activées avec succès. %s"
+
+#: framework/lib/class_tgm.php:363
+msgid "Something went wrong."
+msgstr "Quelque chose a mal été"
+
+#: framework/lib/class_tgm.php:378
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions sont installées et activées avec succès. %1$s"
+
+#: framework/lib/class_tgm.php:732 framework/lib/class_tgm.php:2314
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: framework/lib/class_tgm.php:760
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "L'extension suivante a été activée avec succès : %s."
+
+#: framework/lib/class_tgm.php:933
+msgid "Dismiss this notice"
+msgstr "Ne pas tenir compte de l'avis"
+
+#: framework/lib/class_tgm.php:1320
+msgid "External Link"
+msgstr "Lien externe"
+
+#: framework/lib/class_tgm.php:1325
+msgid "Private Repository"
+msgstr "Dépôt privé"
+
+#: framework/lib/class_tgm.php:1328
+msgid "Pre-Packaged"
+msgstr "Pré-emballé"
+
+#: framework/lib/class_tgm.php:1332
+msgid "WordPress Repository"
+msgstr "Dépôt de WordPress"
+
+#: framework/lib/class_tgm.php:1335
+msgid "Required"
+msgstr "Requis"
+
+#: framework/lib/class_tgm.php:1335
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: framework/lib/class_tgm.php:1338
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: framework/lib/class_tgm.php:1340
+msgid "Installed But Not Activated"
+msgstr "Bien installé mais non activé"
+
+#: framework/lib/class_tgm.php:1342
+msgid "Not Updated"
+msgstr "Pas mis à jour"
+
+#: framework/lib/class_tgm.php:1344
+msgid "Active"
+msgstr "Actif"
+
+#: framework/lib/class_tgm.php:1538
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Aucune extension à installer ou à activer. <a href=\"%1$s\" title=\"Retour "
+"au tableau de bord\">Retour au tableau de bord</a>"
+
+#: framework/lib/class_tgm.php:1554
+msgid "Plugin"
+msgstr "Extension"
+
+#: framework/lib/class_tgm.php:1555
+msgid "Source"
+msgstr "Source"
+
+#: framework/lib/class_tgm.php:1556
+msgid "Type"
+msgstr "Type"
+
+#: framework/lib/class_tgm.php:1557
+msgid "Status"
+msgstr "Statut"
+
+#: framework/lib/class_tgm.php:1575
+msgid "Install"
+msgstr "Installez"
+
+#: framework/lib/class_tgm.php:1576
+msgid "Activate"
+msgstr "Activer"
+
+#: framework/lib/class_tgm.php:1800
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "L'extension suivante a été activée avec succès :"
+msgstr[1] "Les extensions suivantes ont été activées avec succès :"
+
+#: framework/lib/class_tgm.php:2085
+msgid "Install package not available."
+msgstr "Paquet d'installation indisponible."
+
+#: framework/lib/class_tgm.php:2086
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Téléchargement du paquet d'installation de <span class=\"code\">%s</"
+"span>&#8230;"
+
+#: framework/lib/class_tgm.php:2087
+msgid "Unpacking the package&#8230;"
+msgstr "Décompression du paquet&#8230;"
+
+#: framework/lib/class_tgm.php:2088
+msgid "Installing the plugin&#8230;"
+msgstr "Installation de l'extension&#8230;"
+
+#: framework/lib/class_tgm.php:2089
+msgid "Plugin install failed."
+msgstr "L'installation de l'extension a échouée."
+
+#: framework/lib/class_tgm.php:2090
+msgid "Plugin installed successfully."
+msgstr "L'installation de l'extension est un succès."
+
+#: framework/lib/class_tgm.php:2101
+msgid "Plugin activation failed."
+msgstr "L'activation de l'extension a échouée."
+
+#: framework/lib/class_tgm.php:2211
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d'installation et d'activation commence. Ce processus peut "
+"prendre un certain temps sur certains hôtes, donc s'il vous plaît soyez "
+"patient."
+
+#: framework/lib/class_tgm.php:2212
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: framework/lib/class_tgm.php:2212 framework/lib/class_tgm.php:2221
+msgid "Show Details"
+msgstr "Voir les détails"
+
+#: framework/lib/class_tgm.php:2212 framework/lib/class_tgm.php:2221
+msgid "Hide Details"
+msgstr "Cacher les détails"
+
+#: framework/lib/class_tgm.php:2213
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations ont été complétées."
+
+#: framework/lib/class_tgm.php:2214
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#: framework/lib/class_tgm.php:2218
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d'installation commence. Ce processus peut prendre un certain "
+"temps sur certains hôtes, donc s'il vous plaît soyez patient."
+
+#: framework/lib/class_tgm.php:2219
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Une erreur est survenue pendant l'installation %1$s: <strong>%2$s</strong>."
+
+#: framework/lib/class_tgm.php:2220
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#: framework/lib/class_tgm.php:2221
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installé avec succès."
+
+#: framework/lib/class_tgm.php:2222
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont complétées."
+
+#: framework/lib/class_tgm.php:2223
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#: framework/lib/class_utils.php:464
+msgid "Error: Please fill in the required question."
+msgstr "Erreur : SVP, répondre à la question obligatoire"
+
+#: framework/lib/class_utils.php:470
+msgid "Error: Please fill in the correct answer to the question."
+msgstr "Erreur : SVP, veuillez donner la bonne réponse à la question"
+
+#: framework/lib/class_utils.php:647
+msgid "Sorry, your nonce did not verify."
+msgstr "Désolé, votre pseudo n'a pas vérifié."
+
+#: framework/lib/class_utils.php:656
+msgid "Invalid e-mail."
+msgstr "Courriel invalide"
+
+#: framework/lib/class_utils.php:658
+msgid "This email is already registered."
+msgstr "Ce courriel est déjà enregistré."
+
+#: framework/lib/class_utils.php:661
+msgid "Invalid user name."
+msgstr "Nom d'usager invalide."
+
+#: framework/lib/class_utils.php:663
+msgid "User name already exists."
+msgstr "Le nom d'usager existe déjà."
+
+#: framework/lib/class_utils.php:671
+msgid "Registration failed"
+msgstr "Enregistrement échoué"
+
+#: framework/lib/rating/admin.php:98 framework/lib/rating/admin.php:113
+msgid "Users Ratings"
+msgstr "Évalutions des usagers"
+
+#: framework/lib/rating/admin.php:116
+msgid "Your Rating"
+msgstr "Votre évaluation"
+
+#: functions.php:271
+msgid " Save "
+msgstr " Sauvez "
+
+#: functions.php:276
+#, php-format
+msgid " Save %s"
+msgstr " Sauvez %s"
+
+#: functions.php:346
+msgid "Primary Navigation"
+msgstr "Navigation primaire"
+
+#: functions.php:347
+msgid "Footer Navigation"
+msgstr "Navigation du pied de page"
+
+#: functions.php:348
+msgid "My Account Menu"
+msgstr "Menu de mon compte"
+
+#: functions.php:1012
+msgid "GoodStore"
+msgstr ""
+
+#: functions.php:1023
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:1029
+msgid "JaW Support"
+msgstr ""
+
+#: functions.php:1048
+msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
+msgstr ""
+
+#: loop-products.php:136
+msgid "No products found"
+msgstr "Aucun produit trouvé"
+
+#: loop-search.php:157 templates/blog/blog.php:17
+#: templates/custom-posts/custom.php:10 templates/custom-posts/faq.php:11
+#: templates/custom-posts/portfolio.php:11
+msgid ""
+"We are sorry, no results were found. You can try to find some related posts "
+"using the search function."
+msgstr ""
+"Nous sommes désolés, aucun résultat n'a été trouvé. Vous pouvez essayer de "
+"trouver des posts connexes à l'aide de la fonction de recherche."
+
+#: page-my-account.php:57 templates/header/top_bar/login.php:55
+msgid "Logout"
+msgstr "Déconnecter"
+
+#: product-searchform.php:16
+msgid "Search for products"
+msgstr "Recherche de produits"
+
+#: search.php:63
+msgid "Search Results for"
+msgstr "Chercher des résultats pour"
+
+#: templates/blog/rating_bottom.php:116
+msgid "Your rating"
+msgstr "Votre évaluation"
+
+#: templates/blog/rating_bottom.php:116
+msgid "Users rating"
+msgstr "Évaluation des usagers"
+
+#: templates/blog/rating_bottom.php:118
+msgid "votes"
+msgstr "votes"
+
+#: templates/blog/related-post.php:19
+msgid "Related Posts"
+msgstr "Posts connexes"
+
+#: templates/blog/single-post.php:95
+msgid "Posted in: "
+msgstr "Publié dans :"
+
+#: templates/blog/single-post.php:103
+#: templates/content/content-big-gallery.php:125
+#: templates/content/content-big-image.php:63
+#: templates/content/content-big-video.php:73
+#: templates/content/content-big.php:66
+#: templates/content/content-classical-gallery.php:126
+#: templates/content/content-classical-image.php:64
+#: templates/content/content-classical-video.php:75
+#: templates/content/content-classical.php:56
+#: templates/content/content-middle-gallery.php:159
+#: templates/content/content-middle-image.php:72
+#: templates/content/content-middle-video.php:86
+#: templates/content/content-middle.php:60
+msgid "Posted by: "
+msgstr "Publié par :"
+
+#: templates/blog/single-post.php:179
+#: templates/custom-posts/single-portfolio.php:160
+#: templates/custom-posts/single-team.php:98
+msgid "Share IT:"
+msgstr "Partagez-le :"
+
+#: templates/blog/single-post.php:345
+#: templates/custom-posts/single-portfolio.php:149
+#: templates/custom-posts/single-team.php:160 woocommerce.php:80
+msgid "Previous"
+msgstr "Précédant"
+
+#: templates/blog/single-post.php:346
+#: templates/custom-posts/single-portfolio.php:150
+#: templates/custom-posts/single-team.php:161 woocommerce.php:81
+msgid "Next"
+msgstr "Suivant"
+
+#: templates/content/content-big-gallery.php:161
+#: templates/content/content-big-image.php:99
+#: templates/content/content-big-video.php:109
+#: templates/content/content-big.php:102
+#: templates/content/content-classical-gallery.php:163
+#: templates/content/content-classical-image.php:101
+#: templates/content/content-classical-video.php:112
+#: templates/content/content-classical.php:90
+#: templates/content/content-middle-gallery.php:196
+#: templates/content/content-middle-image.php:108
+#: templates/content/content-middle-video.php:120
+#: templates/content/content-middle.php:96
+msgid "Posted in "
+msgstr "Publié dans "
+
+#: templates/custom-posts/content-team.php:34
+msgid "Email:"
+msgstr "Courriel"
+
+#: templates/custom-posts/single-portfolio.php:86
+#: templates/custom-posts/single-team.php:47
+msgid " by:"
+msgstr " par :"
+
+#: templates/custom-posts/team.php:11
+msgid ""
+"We are sorry, no results were found. You can try to find some related team "
+"member using the search function."
+msgstr ""
+"Nous sommes désolés, aucun résultat n'a été trouvé. Vous pouvez essayer de "
+"trouver un membre associée à l'équipe en utilisant la fonction de recherche."
+
+#: templates/custom-posts/testimonial.php:11
+msgid ""
+"We are sorry, no results were found. You can try to find some related "
+"testimonial using the search function."
+msgstr ""
+"Nous sommes désolés, aucun résultat n'a été trouvé. Vous pouvez essayer de "
+"trouver une déclaration connexe à l'aide de la fonction de recherche .."
+
+#: templates/header/top-bar-1.php:53 templates/simple-shortcodes/login.php:27
+#: templates/widgets/jaw_ecommerce_widget.php:16
+msgid "My account"
+msgstr "Mon compte"
+
+#: templates/header/top-bar-1.php:55 templates/simple-shortcodes/login.php:63
+#: templates/widgets/jaw_login_widget.php:65
+msgid "Login"
+msgstr "Connexion"
+
+#: templates/header/top-bar-1.php:82 templates/simple-shortcodes/login.php:69
+#: templates/simple-shortcodes/login.php:115
+#: templates/widgets/jaw_ecommerce_widget.php:44
+msgid "Register"
+msgstr "S'enregistrer"
+
+#: templates/header/top_bar/compare.php:4
+msgid "Compare"
+msgstr ""
+
+#: templates/header/top_bar/login.php:7
+#: templates/widgets/jaw_login_widget.php:53
+msgid "Username"
+msgstr "Nom d'usager"
+
+#: templates/header/top_bar/login.php:8
+#: templates/widgets/jaw_login_widget.php:56
+msgid "Password"
+msgstr "Mot de passe"
+
+#: templates/header/top_bar/login.php:9
+msgid "Remember Me"
+msgstr "Se souvenir de moi"
+
+#: templates/header/top_bar/login.php:10
+msgid "Log In"
+msgstr "Connexion"
+
+#: templates/header/top_bar/login.php:33
+#: templates/widgets/jaw_login_widget.php:99
+msgid "You are logged in as "
+msgstr "Vous êtes connecté en tant que "
+
+#: templates/header/top_bar/wishlist.php:5
+#: templates/widgets/jaw_ecommerce_widget.php:56
+msgid "Wishlist"
+msgstr "Liste de souhaits"
+
+#: templates/header/top_bar/woo_cart.php:2
+#: templates/widgets/ecommerce_widget/woo_cart.php:2
+msgid "View your shopping cart"
+msgstr "Voir votre panier"
+
+#: templates/header/top_bar/woo_cart.php:5
+msgid "Shopping cart"
+msgstr "Panier"
+
+#: templates/simple-shortcodes/breadcrumbs.php:48
+msgid "Home"
+msgstr "Accueil"
+
+#: templates/simple-shortcodes/breadcrumbs.php:68
+#: templates/simple-shortcodes/breadcrumbs.php:128
+#: woocommerce/single-product/meta.php:32
+msgid "Tag:"
+msgstr "Étiquette :"
+
+#: templates/simple-shortcodes/breadcrumbs.php:71
+msgid "Author:"
+msgstr "Auteur :"
+
+#: templates/simple-shortcodes/breadcrumbs.php:92
+#: templates/simple-shortcodes/breadcrumbs.php:100
+msgid "Shop"
+msgstr ""
+
+#: templates/simple-shortcodes/breadcrumbs.php:155
+msgid "File not found"
+msgstr "Fichier introuvable"
+
+#: templates/simple-shortcodes/contact.php:33
+msgid "E-mail:"
+msgstr "Courriel :"
+
+#: templates/simple-shortcodes/contact.php:44
+msgid "Phone:"
+msgstr "Téléphone :"
+
+#: templates/simple-shortcodes/contact.php:55
+msgid "Mobile:"
+msgstr ""
+
+#: templates/simple-shortcodes/contact.php:66
+msgid "Web:"
+msgstr ""
+
+#: templates/simple-shortcodes/contact.php:77
+msgid "Skype:"
+msgstr "Skype"
+
+#: templates/simple-shortcodes/contact.php:93
+msgid "Opening hours:"
+msgstr "Heures d'ouvertures :"
+
+#: templates/simple-shortcodes/contact.php:96
+msgid "Monday:"
+msgstr "Lundi :"
+
+#: templates/simple-shortcodes/contact.php:104
+msgid "Tuesday:"
+msgstr "Mardi :"
+
+#: templates/simple-shortcodes/contact.php:111
+msgid "Wednesday:"
+msgstr "Mercredi :"
+
+#: templates/simple-shortcodes/contact.php:118
+msgid "Thursday:"
+msgstr "Jeudi :"
+
+#: templates/simple-shortcodes/contact.php:125
+msgid "Friday:"
+msgstr "Vendredi :"
+
+#: templates/simple-shortcodes/contact.php:132
+msgid "Saturday:"
+msgstr "Samedi :"
+
+#: templates/simple-shortcodes/contact.php:139
+msgid "Sunday:"
+msgstr "Dimanche :"
+
+#: templates/simple-shortcodes/countdown.php:20
+msgid "days"
+msgstr "jours"
+
+#: templates/simple-shortcodes/countdown.php:20
+msgid "hrs"
+msgstr "hres"
+
+#: templates/simple-shortcodes/countdown.php:20
+msgid "mnts"
+msgstr "mois"
+
+#: templates/simple-shortcodes/countdown.php:20
+msgid "sec"
+msgstr "sec."
+
+#: templates/simple-shortcodes/login.php:23
+msgid "Logged in"
+msgstr "Connecté en tant que"
+
+#: templates/simple-shortcodes/login.php:90
+msgid "Wrong answer"
+msgstr "Mauvaise réponse"
+
+#: templates/simple-shortcodes/login.php:93
+msgid "Error: "
+msgstr "Erreur : "
+
+#: templates/simple-shortcodes/login.php:96
+msgid "Congratulations you have been registered."
+msgstr ""
+
+#: templates/simple-shortcodes/login.php:96
+msgid "Please check your e-mail box: "
+msgstr "SVP, surveillez votre boîte courriel :"
+
+#: templates/simple-shortcodes/login.php:111
+msgid "A password will be e-mailed to you."
+msgstr "Un mot de passe vous sera envoyé par courriel."
+
+#: templates/simple-shortcodes/section_bar.php:56
+msgid "Sort: "
+msgstr "Trier :"
+
+#: templates/simple-shortcodes/section_bar.php:57
+msgid "Date"
+msgstr "Date"
+
+#: templates/simple-shortcodes/section_bar.php:59
+msgid "Rating"
+msgstr "Évaluation"
+
+#: templates/simple-shortcodes/section_bar.php:60
+msgid "Popular"
+msgstr "Populaire"
+
+#: templates/simple-shortcodes/section_bar.php:81
+msgid "Filter: "
+msgstr "Filtre :"
+
+#: templates/simple-shortcodes/section_bar.php:83
+msgid "All"
+msgstr "Tout"
+
+#: templates/widgets/ecommerce_widget/woo_cart.php:6
+msgid "Bag"
+msgstr ""
+
+#: templates/widgets/jaw_ecommerce_widget.php:18
+msgid "Log in"
+msgstr ""
+
+#: templates/widgets/jaw_login_widget.php:29
+#: templates/widgets/jaw_login_widget.php:34
+msgid "Success!"
+msgstr "Succès !"
+
+#: templates/widgets/jaw_login_widget.php:30
+msgid "Check your email for the password and then return to log in."
+msgstr ""
+"Vérifiez votre courriel pour récupérer le mot de passe, puis revenez vous "
+"connecter."
+
+#: templates/widgets/jaw_login_widget.php:35
+msgid "Check your email to reset your password."
+msgstr "Vérifiez votre courriel pour réinitialiser votre mot de passe."
+
+#: templates/widgets/jaw_login_widget.php:40
+msgid "Have an account?"
+msgstr "Avez-vous un compte?"
+
+#: templates/widgets/jaw_login_widget.php:61
+msgid " Remember me"
+msgstr "Se souvenir de moi"
+
+#: templates/widgets/jaw_login_widget.php:80
+msgid "Welcome, "
+msgstr "Bienvenue, "
+
+#: templates/widgets/jaw_login_widget.php:101
+msgid "Log out"
+msgstr "Déconnexion"
+
+#: templates/widgets/jaw_login_widget.php:104
+msgid "Admin"
+msgstr "Admin"
+
+#: templates/widgets/jaw_login_widget.php:106
+msgid "Profile"
+msgstr "Profil"
+
+#: templates/widgets/jaw_social_widget.php:107
+#: templates/widgets/jaw_social_widget.php:109
+#: templates/widgets/jaw_social_widget.php:113
+#: templates/widgets/jaw_social_widget.php:119
+#: templates/widgets/jaw_social_widget.php:121
+msgid "followers"
+msgstr "suiveurs"
+
+#: templates/widgets/jaw_social_widget.php:111
+msgid "fans"
+msgstr "fans"
+
+#: templates/widgets/jaw_social_widget.php:115
+msgid "photos"
+msgstr "photos"
+
+#: templates/widgets/jaw_social_widget.php:117
+msgid "subscribers"
+msgstr "Abonnés"
+
+#: templates/woocommerce/content-product-0.php:72
+#: templates/woocommerce/content-product-10.php:62
+#: templates/woocommerce/content-product-2.php:61
+#: templates/woocommerce/content-product-20.php:71
+msgid "Featured product"
+msgstr "Produit vedette"
+
+#: woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr "Produit"
+
+#: woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr "Prix"
+
+#: woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr "Quantité"
+
+#: woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart.php:48
+msgid "Remove this item"
+msgstr "Enlever cet article"
+
+#: woocommerce/cart/cart.php:77
+msgid "Available on backorder"
+msgstr "Rupture de stock"
+
+#: woocommerce/cart/cart.php:126
+msgid "Coupon"
+msgstr "Coupon"
+
+#: woocommerce/cart/cart.php:126
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Apply Coupon"
+msgstr "Appliquer un coupon"
+
+#: woocommerce/cart/cart.php:133
+msgid "Update Cart"
+msgstr "Mise à jour du panier"
+
+#: woocommerce/cart/cross-sells.php:41
+msgid "You may be interested in&hellip;"
+msgstr "Vous pourriez être intéressé par&hellip;"
+
+#: woocommerce/content-single-product.php:113
+msgid "View product"
+msgstr "Voir le produit"
+
+#: woocommerce/loop/add-to-cart.php:17
+msgid "Details"
+msgstr "Détails"
+
+#: woocommerce/loop/add-to-cart.php:33
+msgid "Select options"
+msgstr "Sélectionner des options"
+
+#: woocommerce/loop/add-to-cart.php:37
+msgid "View options"
+msgstr "Voir les options"
+
+#: woocommerce/loop/add-to-cart.php:41 woocommerce/loop/add-to-cart.php:50
+msgid "Read More"
+msgstr "Lire plus"
+
+#: woocommerce/loop/add-to-cart.php:46
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+#: woocommerce/loop/orderby.php:20
+msgid "Sort by default sorting"
+msgstr "Tri par défaut"
+
+#: woocommerce/loop/orderby.php:21
+msgid "Sort by popularity"
+msgstr "Tri par popularité"
+
+#: woocommerce/loop/orderby.php:22
+msgid "Sort by average rating"
+msgstr "Tri par moyenne d'évaluations"
+
+#: woocommerce/loop/orderby.php:23
+msgid "Sort by newness"
+msgstr "Tri par nouveautés"
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by price: low to high"
+msgstr "Tri par prix : ascendant"
+
+#: woocommerce/loop/orderby.php:25
+msgid "Sort by price: high to low"
+msgstr "Tri par prix : descendant"
+
+#: woocommerce/loop/price.php:25 woocommerce/loop/price.php:32
+msgid "Free"
+msgstr "Gratuit"
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr "Présentation de l'unique résultat"
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr "Présentation des %d résultats"
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing %1$d-%2$d of %3$d results"
+msgstr "Présentation de %1$d-%2$d des %3$d résultats"
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr "En vente !"
+
+#: woocommerce/single-product/meta.php:19
+msgid "SKU:"
+msgstr "SKU :"
+
+#: woocommerce/single-product/meta.php:26
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Catégorie :"
+msgstr[1] "Catégories :"
+
+#: woocommerce/single-product/related.php:46
+msgid "Related Products"
+msgstr "Produits connexes"
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr "Description du produit"
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "You may also like&hellip;"
+msgstr "Vous devriez aimer&hellip;"
+
+#~ msgid "Congratulations you has been registered."
+#~ msgstr "Félicitations, vous avez été enregistré."
+
+#~ msgctxt "Product quantity input tooltip"
+#~ msgid "Qty"
+#~ msgstr "Qté"
+
+#~ msgid "Proceed to Checkout &rarr;"
+#~ msgstr "Procédé au paiement &rarr;"
+
+#~ msgid "Choose an option"
+#~ msgstr "Choosier use option"
+
+#~ msgid "Clear selection"
+#~ msgstr "Effacer la selection"
