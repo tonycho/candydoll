@@ -44,7 +44,7 @@ echo '<div id="content" class="' . implode(' ', $content_width) . ' ' . jwLayout
 
     <?php if (apply_filters('woocommerce_show_page_title', true)) : ?>
 
-    <div class="<?php echo implode(' ', $content_width); ?> builder-section">
+    <div class="<?php echo implode(' ', $content_width); ?> builder-section"> 
         <?php
         $col = jwLayout::parseColWidth();
         ?>
@@ -60,7 +60,7 @@ echo '<div id="content" class="' . implode(' ', $content_width) . ' ' . jwLayout
             </div>
         </div>
 
-    <?php endif; ?>
+    <?php endif; ?>    
 
     <?php if (have_posts()) : ?>
 
@@ -73,7 +73,7 @@ echo '<div id="content" class="' . implode(' ', $content_width) . ' ' . jwLayout
          */
         //do_action('woocommerce_before_shop_loop');
         ?>
-
+        
         <div class="row category-bar">
                 <div class="col-lg-3">
                     <?php wc_get_template('loop/result-count.php'); ?>
@@ -89,7 +89,7 @@ echo '<div id="content" class="' . implode(' ', $content_width) . ' ' . jwLayout
                     </div>
                 </div>
             </div>
-
+        
         <div class="row">
                 <div class="col-lg-<?php echo $col; ?>">
 
@@ -107,10 +107,10 @@ echo '<div id="content" class="' . implode(' ', $content_width) . ' ' . jwLayout
 
                 </div>
             </div>
-
+        
         <div class="clear"></div>
         <?php echo jwRender::pagination(jaw_template_get_var('pagination', jwOpt::get_option('blog_pagination', 'number'))); ?>
-
+    
 
     <?php elseif (!woocommerce_product_subcategories(array('before' => woocommerce_product_loop_start(false), 'after' => woocommerce_product_loop_end(false)))) : ?>
 
@@ -118,7 +118,7 @@ echo '<div id="content" class="' . implode(' ', $content_width) . ' ' . jwLayout
 
     <?php endif; ?>
         </div>
-   </div>
+   </div> 
 </div>
     <?php
     /**
@@ -130,3 +130,5 @@ echo '<div id="content" class="' . implode(' ', $content_width) . ' ' . jwLayout
     ?>
 
     <?php get_footer('shop'); ?>
+
+ 

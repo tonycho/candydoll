@@ -33,7 +33,7 @@ $class[] = 'jw-description-style-'. jwOpt::get_option('woo_tabs_style', 'tabs');
 
 ?>
 
-<div itemscope itemtype="http://schema.org/Product" id="product-<?php the_ID(); ?>" <?php post_class($class); ?>>
+<div id="product-<?php the_ID(); ?>" <?php post_class($class); ?>>
 
     <?php
     /**
@@ -61,7 +61,7 @@ $class[] = 'jw-description-style-'. jwOpt::get_option('woo_tabs_style', 'tabs');
             global $post, $product;
 
             wc_get_template('single-product/title.php');
-
+            
             if($woo_signedin_price) {
                 echo '<div class="price-container">';
                 wc_get_template('single-product/price.php');
@@ -72,12 +72,12 @@ $class[] = 'jw-description-style-'. jwOpt::get_option('woo_tabs_style', 'tabs');
             $rating = jwRender::metaRating();
             if (strlen(trim($rating))) {
                 $class_dr = 'rating-show';
-                echo '<div class="rating" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">';
+                echo '<div class="rating">';
                 echo $rating;
-                echo '<meta itemprop="ratingValue" content="'. $product->get_average_rating() .'" />';
+                /*echo '<meta itemprop="ratingValue" content="'. $product->get_average_rating() .'" />';
                 echo '<meta itemprop="bestRating" content="5" />';
                 echo '<meta itemprop="ratingCount" content="'. $product->get_rating_count() .'" />';
-                echo '<meta itemprop="reviewCount" content="'. $product->get_review_count() .'" />';
+                echo '<meta itemprop="reviewCount" content="'. $product->get_review_count() .'" />';*/
                 echo '<div class="clear"></div>';
                 echo '</div>';
             }
@@ -113,7 +113,7 @@ $class[] = 'jw-description-style-'. jwOpt::get_option('woo_tabs_style', 'tabs');
                 echo '<a class="button" href="' . $link_to_product . '" target="' . jwOpt::get_option('woo_product_product_target', '_self') . '" >' . __('View product', 'jawtemplates') . '</a>';
                 echo '</div>';
             }
-
+            
             if($woo_signedin_price) {
                 //switch ($product->product_type) { woo v3 deprecated
                 switch ($product->get_type()) {
@@ -121,7 +121,7 @@ $class[] = 'jw-description-style-'. jwOpt::get_option('woo_tabs_style', 'tabs');
                         remove_action('woocommerce_single_product_summary', 'woocommerce_template_single_add_to_cart', 30);
                         // Enqueue variation scripts
                         wp_enqueue_script('wc-add-to-cart-variation');
-
+    
                         // Load the template
                         wc_get_template('single-product/add-to-cart/variable.php', array(
                             'available_variations' => $product->get_available_variations(),
@@ -161,8 +161,8 @@ $class[] = 'jw-description-style-'. jwOpt::get_option('woo_tabs_style', 'tabs');
                          */
                         //do_action('woocommerce_bundle_add_to_cart');
                         break;
-                    case 'composite':
-                        add_action('woocommerce_single_product_summary', 'woocommerce_template_single_add_to_cart', 30);
+                    case 'composite':  	                
+                        add_action('woocommerce_single_product_summary', 'woocommerce_template_single_add_to_cart', 30); 	                
                         break;
                 }
             remove_action('woocommerce_single_product_summary', 'woocommerce_template_single_title', 5);

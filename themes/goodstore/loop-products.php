@@ -52,7 +52,7 @@ if (is_product_category()) {
 }
 if (function_exists('is_product') && !is_product()) {
     if (have_posts()) {
-        ?><div class="<?php echo implode(' ', $content_width); ?> builder-section">
+        ?><div class="<?php echo implode(' ', $content_width); ?> builder-section"> 
         <?php
         $col = jwLayout::parseColWidth();
         ?>
@@ -82,7 +82,7 @@ if (function_exists('is_product') && !is_product()) {
             }
             ?>
             <?php if ($cat_display_type == 'subcategories' || $cat_display_type == 'both') { ?>
-                <div class="woocommerce  elements_iso row product_subcategories" >
+                <div class="woocommerce  elements_iso row product_subcategories" > 
                     <?php woocommerce_product_subcategories(); ?>
                 </div>
             <?php } ?>
@@ -120,7 +120,7 @@ if (function_exists('is_product') && !is_product()) {
                 <div class="col-lg-<?php echo $col; ?>">
                     <div class="jaw_blog <?php echo implode(' ', $catalog_class); ?>">
 
-                        <div class="woocommerce elements_iso row jaw_paginated_<?php echo jaw_template_get_counter('pagination'); ?>" >
+                        <div class="woocommerce elements_iso row jaw_paginated_<?php echo jaw_template_get_counter('pagination'); ?>" > 
                             <?php
                             while (have_posts()) : the_post();
                                 wc_get_template_part('content', 'product');
@@ -131,14 +131,14 @@ if (function_exists('is_product') && !is_product()) {
                     </div>
                 </div>
             <?php } else {
-                ?> <div class=" builder-section <?php echo implode(' ', $content_width); ?>">
+                ?> <div class=" builder-section <?php echo implode(' ', $content_width); ?>"> 
                     <div  class="elements_iso"> <?php
         echo __('No products found', 'jawtemplates');
     }
 } else {
-            ?> <div id="content" class="product-content builder-section <?php echo implode(' ', $content_width); ?>" >
+            ?> <div id="content" class="product-content builder-section <?php echo implode(' ', $content_width); ?>" > 
                         <div class="row">
-                            <div class="<?php echo implode(' ', jwLayout::content_width()); ?>">
+                            <div class="<?php echo implode(' ', jwLayout::content_width()); ?>">     
                                 <?php
                                 woocommerce_content();
                                 ?>

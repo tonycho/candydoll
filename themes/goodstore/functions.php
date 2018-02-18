@@ -1,7 +1,7 @@
 <?php
 /**
  * Base loader and theme initialization
- * 
+ *
  * @author JaW Templates <http://www.jawtemplates.com>
  * @copyright (c) 2013, CCB, spol. s r.o.
  * @version 1.0
@@ -206,7 +206,7 @@ function jaw_init() {
     if (jwOpt::get_option('theme_revoComposer', '1') == '1') {
         $jawBuilder = new jwBuilder();
     }
-    
+
     //jaw translation
     if(jwOpt::get_option('use_translation', '0')){
         //_x, _ex, esc_attr_x, esc_html_x to zatím neumi neumi
@@ -271,10 +271,10 @@ function jaw_init() {
 
         //yith wishlist zmenil defaultni nastaveni buttonu "add to wishlist" timto se prepise na puvodni
         update_option( 'yith_wcwl_button_position','shortcode' );
-        
+
         add_option('install', '1');
     }
-   
+
 }
 
 function jaw_woocommerce_sales_price($price, $product) {
@@ -726,7 +726,7 @@ function jaw_wp_scripts() {
         wp_localize_script('app-min', 'isotope_grid', jwOpt::get_option('isotope_grid', 'masonry'));
     }
 
-// Enable threaded comments 
+// Enable threaded comments
     if (is_singular() && comments_open() && get_option('thread_comments')) {
         wp_enqueue_script('comment-reply');
     }
@@ -949,7 +949,7 @@ function jaw_wc_ga_integration($order_id) {
         _gaq.push(['_addTrans',
             '<?php echo $order_id; ?>', // transaction ID - required
             '<?php echo get_option("blogname"); ?>', // affiliation or store name
-            '<?php echo $order->get_total(); ?>', // total - required 
+            '<?php echo $order->get_total(); ?>', // total - required
             '<?php echo $order->get_total_tax(); ?>', // tax
             '<?php echo $order->get_total_shipping(); ?>', // shipping
             '<?php echo $city; ?>', // city
